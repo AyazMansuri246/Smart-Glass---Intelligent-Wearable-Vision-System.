@@ -37,3 +37,5 @@ Triple Tap- Live Audio Translation.
 - Low latency inference
 - Memory-efficient models
 - Real-time processing
+
+"Flutter App code is already available in another smart glass repo."
